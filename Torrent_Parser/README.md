@@ -1,5 +1,6 @@
-What
-====
+challenge description
+
+
 Please use Python 2.7 to perform the following task:
  
 Write a reusable library to parse BitTorrent files. The library should expose at least the following pieces of information (when available in the file):
